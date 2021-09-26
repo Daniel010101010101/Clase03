@@ -1,0 +1,9 @@
+C:\Users\HP-Notebook\Documents\GitHub\clasegeneral\Persona1\Persona1\bin\Debug\Persona1.exe.config
+C:\Users\HP-Notebook\Documents\GitHub\clasegeneral\Persona1\Persona1\bin\Debug\Persona1.exe
+C:\Users\HP-Notebook\Documents\GitHub\clasegeneral\Persona1\Persona1\bin\Debug\Persona1.pdb
+C:\Users\HP-Notebook\Documents\GitHub\clasegeneral\Persona1\Persona1\obj\Debug\Persona1.csproj.AssemblyReference.cache
+C:\Users\HP-Notebook\Documents\GitHub\clasegeneral\Persona1\Persona1\obj\Debug\Persona1.Vistas.Form1.resources
+C:\Users\HP-Notebook\Documents\GitHub\clasegeneral\Persona1\Persona1\obj\Debug\Persona1.csproj.GenerateResource.cache
+C:\Users\HP-Notebook\Documents\GitHub\clasegeneral\Persona1\Persona1\obj\Debug\Persona1.csproj.CoreCompileInputs.cache
+C:\Users\HP-Notebook\Documents\GitHub\clasegeneral\Persona1\Persona1\obj\Debug\Persona1.exe
+C:\Users\HP-Notebook\Documents\GitHub\clasegeneral\Persona1\Persona1\obj\Debug\Persona1.pdb
